@@ -1,7 +1,7 @@
 /** Represents a social network. The network has users, who follow other uesrs.
  *  Each user is an instance of the User class. */
 public class Network {
-
+    
     // Fields
     private User[] users;  
     private int userCount; 
